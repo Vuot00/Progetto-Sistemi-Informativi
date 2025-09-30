@@ -41,9 +41,9 @@ Attraverso una base di dati relazionale e un’architettura modulare, il sistema
 5. Maggiore competitività dell’agenzia attraverso monitoraggio performance e incentivi.
 
 ## Autori
-- Vito Simone Goffredo – Matr. 239785
-- Francesco D’Angelo – Matr. 239540
-- Andrea Attadia – Matr. 240391
+- Vito Simone Goffredo 
+- Francesco D’Angelo 
+- Andrea Attadia 
 
 ## Docente: 
 Prof. Francesco Parisi
