@@ -1,11 +1,8 @@
 # Sistema Informativo per Agenzia Immobiliare EsseCasa
 
-## Descrizione del progetto
 
 Il progetto nasce nell’ambito del corso Laboratorio di Sistemi Informativi (A.A. 2024-2025) con l’obiettivo di progettare e realizzare un sistema informativo integrato per l’agenzia immobiliare EsseCasa, operante a Rende (CS).
-
 Il sistema è pensato per centralizzare la gestione di immobili, clienti, personale e processi aziendali, migliorando l’efficienza organizzativa e la qualità del servizio.
-
 Attraverso una base di dati relazionale e un’architettura modulare, il sistema consente di ridurre la dispersione delle informazioni, garantire maggiore sicurezza e supportare decisioni strategiche basate su dati concreti.
 
 ## Funzionalità principali
